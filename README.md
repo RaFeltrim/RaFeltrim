@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="giphy.gif" height="150" style="border-radius:50px;" src="https://pin.it/6iE50aM">
+  <img align="right" alt="giphy.gif" height="150" style="border-radius:50px;" src="![97dd658034bb19a40428b2617bd165ef](https://user-images.githubusercontent.com/125091849/231576397-4a53b381-a669-4b7e-aa78-8af1b76cc604.gif)">
  
 </div>
 
