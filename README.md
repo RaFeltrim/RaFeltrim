@@ -2,7 +2,7 @@
 
 ## Algumas informações minhas: :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img
+<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=radical&include_all_commits=true">|<a 
 |--|--|
 
 <br>
