@@ -1,6 +1,8 @@
 Prazer! Eu sou Rafael Feltrim.
 
-⚡ Sobre Mim; 💼 Back-end developer.
+⚡ Sobre Mim
+
+💼 Back-end developer.
 
 🌱 Apaixonado em tecnologia como um todo.
 
