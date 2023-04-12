@@ -3,9 +3,8 @@
 ## Algumas informações minhas: :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=highcontrast&include_all_commits=true">
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaFeltrim)](https://github.com/anuraghazra/github-readme-stats)
-Estas são algumas das principais tecnologias que uso ou nas quais trabalhei no passado:
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
