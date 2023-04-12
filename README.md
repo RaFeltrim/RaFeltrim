@@ -17,7 +17,7 @@ Estas são algumas das principais tecnologias que uso ou nas quais trabalhei no 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![giphy](https://user-images.githubusercontent.com/125091849/231565439-bfa004ca-fd88-4481-a53f-39ce9f8a84ef.gif)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[![giphy](https://user-images.githubusercontent.com/125091849/231565439-bfa004ca-fd88-4481-a53f-39ce9f8a84ef.gif)](https://discord.com/channels/468428180223688714/468428180223688716/1095794653497925713)">
  
 </div>
 
