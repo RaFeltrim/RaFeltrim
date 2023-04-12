@@ -2,7 +2,7 @@
 
 ## Algumas informações minhas: :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=retro&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=merko&include_all_commits=true">
 <br>
 
 Estas são algumas das principais tecnologias que uso ou nas quais trabalhei no passado:
