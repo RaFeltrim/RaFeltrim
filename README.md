@@ -8,7 +8,7 @@
 
 ## Linguagens que trabalho ou já trabalhei no passado: 👨‍💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaFeltrim">
-<br>
+
 
  <div style="display: inline_block"><br>
   
