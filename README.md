@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafaela Feltrim, Desenvolvedor de Software e Estudante!
 
-## Some of my stats :bar_chart:
+## Algumas informações minhas: :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="[https://stackoverflow.com/users/story/5679285](https://github.com/RaFeltrim/RaFeltrim)"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
 |--|--|
