@@ -7,7 +7,8 @@
 
 <br>
 
-These are some of the major technologies that I use or have worked on in the past:
+Estas são algumas das principais tecnologias que uso ou nas quais trabalhei no passado:
+
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
