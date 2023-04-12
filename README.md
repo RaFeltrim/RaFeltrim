@@ -1,16 +1,17 @@
-### Hi there 👋
+Prazer! Eu sou Rafael Feltrim.
 
-<!--
-**RaFeltrim/RaFeltrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Sobre Mim; 💼 Back-end developer.
 
-Here are some ideas to get you started:
+🌱 Apaixonado em tecnologia como um todo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ Estudando e se mantendo atualizado sempre.
+
+💫 Skills
+
+💻 Node | Python | JavaScript | HTML | CSS | PHP
+
+🚨 MySQL | MongoDB | Postegres | Microsoft SQL Server
+
+🔧 Visual Studio Code | Intellij | Visual Studio | Git
+
+![giphy](https://user-images.githubusercontent.com/125091849/231543478-c9427f9c-c070-4eef-9abb-eef6bd495654.gif)
