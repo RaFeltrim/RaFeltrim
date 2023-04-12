@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Rafaela Feltrim, Desenvolvedor de Software e Estudante!
 
 ## Algumas informações minhas: :bar_chart:
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=highcontrast&include_all_commits=true"> 
-
+<br>
 ##
 
 ## Linguagens que trabalho ou já trabalhei no passado: 👨‍💻
