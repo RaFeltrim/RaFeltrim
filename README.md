@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=highcontrast&include_all_commits=true">
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaFeltrim)](https://github.com/anuraghazra/github-readme-stats)
 Estas são algumas das principais tecnologias que uso ou nas quais trabalhei no passado:
 
  <div style="display: inline_block"><br>
