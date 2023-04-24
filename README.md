@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafaela Feltrim, Desenvolvedor de Software e Estudante!
+## Olá! Eu sou o Rafael Feltrim, Desenvolvedor de Software e Estudante!
 
 ## Algumas informações minhas: :bar_chart:
 <br>
