@@ -2,9 +2,11 @@
 
 ## Algumas informações minhas: :bar_chart:
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=highcontrast&include_all_commits=true"> 
-<br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=highcontrast&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+|--|--|
+
+<br>
 
 ## Linguagens que trabalho ou já trabalhei no passado: 👨‍💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaFeltrim">
