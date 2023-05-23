@@ -3,7 +3,7 @@
 ## Algumas informações minhas: :bar_chart:
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&theme=vision-friendly-dark&show_icons=true">
 
 <br>
 
