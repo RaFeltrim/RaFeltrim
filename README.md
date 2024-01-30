@@ -20,6 +20,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="right" alt="giphy.gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/125091849/231576397-4a53b381-a669-4b7e-aa78-8af1b76cc604.gif">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="<link rel="stylesheet href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">"
+
  
 </div>
 
