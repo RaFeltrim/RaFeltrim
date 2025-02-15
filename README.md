@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Rafael Feltrim!
 
-![Foto de Perfil](https://github.com/RaFeltrim.png)
-
 ## 📫 Contato
 
 - **Email:** [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)
