@@ -1,47 +1,90 @@
-# 👋 Olá, eu sou o Rafael Feltrim!
+<h1 align="center">
+  <span style="color:#FFA500;">⚡ Rafael Feltrim ⚡</span>
+</h1>
 
-## 📫 Contato
+<p align="center">
+  <img src="https://github.com/RaFeltrim.png" width="150" height="150" style="border-radius:50%;" alt="Foto de Perfil">
+</p>
 
-- **Email:** [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rafael-feltrim-me](https://www.linkedin.com/in/rafael-feltrim-me/)
-- **Instagram:** [@rafeltrim](https://www.instagram.com/rafeltrim/)
-
-## 💼 Sobre Mim
-
-Sou um **Desenvolvedor de Software** apaixonado por tecnologia e inovação. Atualmente, estou cursando **Bacharelado em Engenharia de Software** no Instituto Federal de São Paulo (IFSP). Tenho experiência em desenvolvimento full stack e estou sempre em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos.
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Linguagens de Programação:** ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-- **Frameworks e Bibliotecas:** ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-- **Banco de Dados:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- **Ferramentas e Plataformas:** ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-
-## 🌐 Idiomas
-
-- **Português:** Nativo
-- **Inglês:** Avançado
-
-## 📈 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dracula)
-
-## 💡 Interesses
-
-Além do desenvolvimento de software, tenho interesse em:
-
-- **Inteligência Artificial e Machine Learning:** Explorando modelos de linguagem e frameworks como TensorFlow e PyTorch.
-- **Segurança da Informação:** Estudando práticas de segurança e conformidade com LGPD e GDPR.
-- **Comunidade Tech:** Participando de eventos e comunidades para compartilhar conhecimento e aprender com outros profissionais.
-
-## 📂 Projetos em Destaque
-
-Aqui estão alguns dos meus repositórios mais significativos:
-
-- [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao): Projeto desenvolvido durante a imersão da Alura, focado em JavaScript e desafios práticos.
-- [**Python-treino-1**](https://github.com/RaFeltrim/Python-treino-1): Repositório contendo exercícios e projetos em Python para aprimoramento contínuo.
+<p align="center">
+  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança </span></b>
+</p>
 
 ---
 
-Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato comigo através das plataformas acima!
+## 📫 **Contato**  
 
+📧 **Email:** [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/rafael-feltrim-me](https://www.linkedin.com/in/rafael-feltrim-me/)  
+🌍 **Instagram:** [@rafeltrim](https://www.instagram.com/rafeltrim/)  
+
+---
+
+## 🛠 **Habilidades Técnicas**  
+
+🔥 **Linguagens de Programação**  
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FFA500)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=FFA500)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFA500)
+
+⚡ **Frameworks & Bibliotecas**  
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=FFA500)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFA500)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=FFA500)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=FFA500)
+
+📊 **Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=FFA500)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFA500)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFA500)
+
+🚀 **Ferramentas & Plataformas**  
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFA500)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFA500)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFA500)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFA500)
+
+---
+
+## 🌐 **Idiomas**  
+
+🇧🇷 **Português** - Nativo  
+🇺🇸 **Inglês** - Avançado  
+
+---
+
+## 📂 **Projetos em Destaque**  
+
+🔥 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → JavaScript + React.js  
+🔥 [**Python-treino-1**](https://github.com/RaFeltrim/Python-treino-1) → Python para IA  
+
+---
+
+## 📈 **Estatísticas do GitHub**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+
+## 🚀 **Sobre Mim**  
+
+🎓 **Estudante de Engenharia de Software** no IFSP  
+💻 **Desenvolvedor Full Stack** especializado em **IA e Segurança da Informação**  
+🧠 **Entusiasta de Machine Learning** (TensorFlow, PyTorch, OpenAI)  
+🎮 **Amante de Video Games, Séries e Filmes**  
+✈️ **Sempre explorando novas tecnologias e desafios**  
+
+---
+
+## 🎯 **Conecte-se Comigo!**  
+
+Se quiser trocar ideias sobre **Inteligência Artificial, Desenvolvimento Web, Segurança de Dados** ou simplesmente bater um papo sobre **games e tecnologia**, estou sempre aberto a conversas! 🚀  
+
+---
+
+<p align="center">
+  <b><span style="color:#FFA500;">Obrigado por visitar meu perfil! ⭐ Vamos criar algo incrível juntos! </span></b>
+</p>
