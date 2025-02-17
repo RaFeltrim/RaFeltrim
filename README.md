@@ -1,23 +1,49 @@
-#  Oi, eu sou **Rafael Feltrim**!
+<h1 align="center">
+  <span style="color:#FFA500;">Olá, eu sou Rafael Feltrim!</span>
+</h1>
 
 <p align="center">
   <img src="https://github.com/RaFeltrim.png" width="150" height="150" style="border-radius:50%;" alt="Foto de Perfil">
 </p>
 
 <p align="center">
-  <b>💻 Desenvolvedor Full Stack | IA & Segurança | Em busca de uma oportunidade!</b>
+  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança | Em busca de uma oportunidade!</span></b>
 </p>
 
 ---
 
-## 🚀 **Sobre Mim**
+## 📫 **Contato**
 
-🎓 **Formação:** Estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP).
-💻 **Especialização:** Desenvolvimento Full Stack com foco em **Inteligência Artificial** e **Segurança da Informação**.
-🧠 **Interesses Profissionais:** Entusiasta de **Machine Learning**, com experiência em frameworks como **TensorFlow** e **PyTorch**.
-🎮 **Hobbies:** Apaixonado por video games, séries e filmes.
-✈️ **Objetivos:** Sempre em busca de explorar novas tecnologias e enfrentar desafios inovadores.
-📢 **Disponibilidade:** Atualmente procurando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores.
+- **Email:** [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rafael-feltrim-me](https://www.linkedin.com/in/rafael-feltrim-me/)
+- **GitHub:** [github.com/RaFeltrim](https://github.com/RaFeltrim)
+- **Instagram:** [@rafeltrim](https://www.instagram.com/rafeltrim/)
+  
+---
+
+## 🛠 **Habilidades Técnicas**
+
+**Linguagens de Programação:**
+- ✔ Python (**Avançado**)
+- ✔ Java (**Intermediário**)
+- ✔ JavaScript / TypeScript (**Intermediário**)
+
+**Frameworks & Bibliotecas:**
+- ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=FFA500)
+- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFA500)
+- ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=FFA500)
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=FFA500)
+
+**Banco de Dados:**
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=FFA500)
+- ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFA500)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFA500)
+
+**Ferramentas & Plataformas:**
+- ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFA500)
+- ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFA500)
+- ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFA500)
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFA500)
 
 ---
 
@@ -35,52 +61,43 @@
 
 ---
 
-## 🚀 **Tecnologias que Uso**
+## 📂 **Projetos em Destaque**
 
-### **Linguagens de Programação:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafael-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-### **Frameworks & Bibliotecas:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafael-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Rafael-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rafael-n8n" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg">
-  <img align="center" alt="Rafael-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-</div>
-
-### **Banco de Dados:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafael-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafael-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-
-### **Ferramentas & Plataformas:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafael-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafael-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Rafael-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-</div>
+- 🔥 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → Aplicação **back-end** desenvolvida em **Java**, explorando conceitos como consumo de **APIs**, manipulação de **JSON**, tratamento de exceções e personalização de terminal.
+- 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Ferramenta automatizada para download e extração de cursos hospedados no Google Drive, utilizando processamento paralelo para melhor desempenho.
+- 🔥 [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Aplicação em Python que realiza **web scraping** de diferentes fontes, processa os dados e exporta relatórios para arquivos estruturados.
+- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto_Biblioteca) → Sistema de gerenciamento de biblioteca online desenvolvido com **React.js** e integração com bancos de dados.
 
 ---
 
-## 📂 **Projetos em Destaque**
+## 📈 **Estatísticas do GitHub**
 
-- 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Ferramenta automatizada para download e extração de cursos hospedados no Google Drive, utilizando processamento paralelo para melhor desempenho.
-- 🔥 [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Aplicação em Python que realiza web scraping de diferentes fontes, processa os dados e exporta relatórios para arquivos estruturados.
-- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/ProjetoBiblioteca) → Sistema de gerenciamento de biblioteca online desenvolvido com React.js e integração com bancos de dados.
-- 🔥 [**Alura Imersão**](https://github.com/RaFeltrim/alura-imersao) → Aplicação front-end desenvolvida durante a imersão Alura, utilizando **React.js** e integração com APIs externas.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true" width="400">
+</p>
+
+---
+
+## 🚀 **Sobre Mim**
+
+- 🎓 **Formação:** Estudante de Engenharia de Software no Instituto Federal de São Paulo (IFSP).
+- 💻 **Especialização:** Desenvolvimento **Full Stack** com foco em **Inteligência Artificial** e **Segurança da Informação**.
+- 🧠 **Interesses Profissionais:** Entusiasta de **Machine Learning**, com experiência em frameworks como **TensorFlow** e **PyTorch**.
+- 🎮 **Hobbies:** Apaixonado por **video games, séries e filmes**.
+- ✈️ **Objetivos:** Sempre em busca de explorar novas tecnologias e enfrentar desafios inovadores.
+- 📢 **Disponibilidade:** Atualmente procurando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores.
+
+---
+
+## 🎯 **Conecte-se Comigo!**
+
+Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvimento Web**, **Segurança de Dados** ou simplesmente para falar sobre **games e tecnologia**. Sinta-se à vontade para entrar em contato!
 
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! ⭐ Vamos criar algo incrível juntos!
+  <b><span style="color:#FFA500;">Obrigado por visitar meu perfil! ⭐ Vamos criar algo incrível juntos!</span></b>
 </p>
+
+🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
