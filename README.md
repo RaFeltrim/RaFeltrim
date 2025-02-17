@@ -66,7 +66,7 @@
 - 🔥 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → Aplicação front-end desenvolvida durante a imersão Alura, utilizando **React.js** e integração com APIs externas.
 - 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Ferramenta automatizada para download e extração de cursos hospedados no Google Drive, utilizando processamento paralelo para melhor desempenho.
 - 🔥 [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Aplicação em Python que realiza web scraping de diferentes fontes, processa os dados e exporta relatórios para arquivos estruturados.
-- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/ProjetoBiblioteca) → Sistema de gerenciamento de biblioteca online desenvolvido com React.js e integração com bancos de dados.
+- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto_Biblioteca) → Sistema de gerenciamento de biblioteca online desenvolvido com React.js e integração com bancos de dados.
 
 ---
 
