@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança | Cadmus Soluções em TI - Estagiario </span></b>
+  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança | Cadmus Soluções em TI - Estagiário </span></b>
 </p>
 
 ---
