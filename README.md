@@ -86,7 +86,7 @@
 - 🧠 **Interesses Profissionais:** Entusiasta de **Machine Learning**, com experiência em frameworks como **TensorFlow** e **PyTorch**.
 - 🎮 **Hobbies:** Apaixonado por **video games, séries e filmes**.
 - ✈️ **Objetivos:** Sempre em busca de explorar novas tecnologias e enfrentar desafios inovadores.
-- 📢 **Disponibilidade:** Atualmente procurando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores.
+- 📢 **Disponibilidade:** Entrar em contato pelo email.
 
 ---
 
