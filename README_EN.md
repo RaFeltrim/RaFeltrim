@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b><span style="color:#FFA500;">💻 Full Stack Developer | AI & Security | Looking for an opportunity!</span></b>
+  <b><span style="color:#FFA500;">💻 Full Stack Developer | AI & Security | Cadmus IT Solutions - Intern!</span></b>
 </p>
 
 ---
