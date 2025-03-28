@@ -86,7 +86,7 @@ c
 - 🧠 **Professional Interests:** AI enthusiast with experience in frameworks such as **TensorFlow** and **PyTorch**.
 - 🎮 **Hobbies:** Passionate about video games, series, and movies.
 - ✈️ **Goals:** Always looking to explore new technologies and tackle innovative challenges.
-- 📢 **Availability:** Currently looking for opportunities to apply and expand my knowledge in challenging projects.
+- 📢 **Availability:** Contact by email.
 
 ---
 
