@@ -85,4 +85,4 @@ Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvi
   <b><span style="color:#FFA500;">Obrigado por visitar meu perfil! ⭐ Vamos criar algo incrível juntos!</span></b>
 </p>
 
-              q  🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
+                 🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
