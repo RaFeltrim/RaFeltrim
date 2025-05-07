@@ -1,14 +1,18 @@
-# Olá, eu sou Rafael Feltrim 👋
-
-💻 **Desenvolvedor Full Stack | IA & Segurança | Estagiário na Cadmus Soluções em TI**
+<h1 align="center">
+  <span style="color:#FFA500;">Olá, eu sou Rafael Feltrim!</span>
+</h1>
 
 <p align="center">
   <img src="https://github.com/RaFeltrim.png" width="150" height="150" style="border-radius:50%;" alt="Foto de Perfil">
 </p>
 
+<p align="center">
+  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança | Cadmus Soluções em TI - Estagiário </span></b>
+</p>
+
 ---
 
-## 🧩 Contribuições em 3D
+## 🧩 **Contribuições em 3D**
 
 <p align="center">
   <img src="https://github.com/RaFeltrim/RaFeltrim/blob/main/profile-3d-contrib/profile-orange.svg?raw=true" alt="Contribuições em 3D" />
@@ -25,7 +29,7 @@
 
 ---
 
-## 🛠 **Tecnologias que eu uso**
+## 🛠 **Habilidades Técnicas**
 
 ### **Linguagens de Programação:**
 
@@ -110,9 +114,3 @@ Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvi
 </p>
 
 🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
-
----
-
-**Esse é um layout moderno e minimalista**, com as informações chave logo no início, incluindo o 3D no centro. O esquema de cores laranja foi mantido com o uso de badges nas tecnologias. A animação de contribuições é exibida no meio do perfil, destacando suas atividades.
-
-Agora, você pode copiar e colar este código no seu arquivo `README.md` para obter um perfil visualmente atraente e funcional.
