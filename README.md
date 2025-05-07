@@ -86,3 +86,5 @@ Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvi
 </p>
 
 🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
+
+## oi 
