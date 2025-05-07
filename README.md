@@ -12,16 +12,6 @@
 
 ---
 
-## 🧩 **Contribuições em 3D**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaFeltrim/RaFeltrim/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
-</p>
-
-
-
----
-
 ## 🛠 **Habilidades Técnicas**
 
 ### **Linguagens de Programação:**
@@ -78,6 +68,16 @@
 ## 🎯 **Conecte-se Comigo!**
 
 Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvimento Full Stack**, **DevOps** ou para bater um papo sobre **tecnologia**. Sinta-se à vontade para entrar em contato!
+
+---
+
+
+## 🧩 **Contribuições em 3D**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaFeltrim/RaFeltrim/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
+</p>
+
 
 ---
 
