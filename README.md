@@ -5,31 +5,31 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaFeltrim&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaFeltrim&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 | ----------- | ----------- |
 
-<!-- Sobre mim -->
 ## 👋 Sobre mim
 
-Olá! Meu nome é **Rafael Feltrim**, sou apaixonado por dados, tecnologia e aprendizado contínuo.  
-Atualmente estou me desenvolvendo como **Cientista de Dados** e **Engenheiro de Dados**, buscando sempre melhorar minhas habilidades analíticas e técnicas.
+Olá! Sou **Rafael Feltrim**, um desenvolvedor de software apaixonado por tecnologia e aprendizado contínuo. Atualmente, atuo como estagiário na **Cadmus Soluções em TI**, focando no desenvolvimento Full Stack com ênfase em backend utilizando Node.js e Express. Tenho experiência com:
 
-- 🎓 Cursando Engenharia de Dados  
-- 📊 Interesse em Ciência de Dados, Machine Learning, IA e Engenharia de Dados  
-- 🧠 Gosto de resolver problemas complexos com soluções baseadas em dados  
-- 💼 Aberto a colaborações em projetos de tecnologia e ciência de dados
+- **Frontend**: React.js
+- **Backend**: Node.js, Express
+- **Automação**: Python
+- **APIs**: RESTful
+- **Banco de Dados**: MongoDB
+- **Outras habilidades**: Web Scraping, Data Analysis
+
+Estou sempre em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos.
 
 ---
 
-<!-- Skills Icons -->
 ## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,python,java,jupyter,numpy,pandas,scikitlearn,tensorflow,postgres,docker,linux,github" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,python,javascript,nodejs,express,react,mongodb,html,css,linux,github" />
   </a>
 </div>
 
 ---
 
-<!-- Troféus -->
 ## 🏆 Conquistas GitHub
 
 <div align="center">
@@ -40,5 +40,7 @@ Atualmente estou me desenvolvendo como **Cientista de Dados** e **Engenheiro de 
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/rafael-feltrim/)  
-- Email: **feltrim.rafael@gmail.com**
+- 📍 São Carlos, São Paulo, Brasil
+- 📧 Email: [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafael-feltrim-me/)
+- 📸 [Instagram](https://www.instagram.com/rafeltrim/)
