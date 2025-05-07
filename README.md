@@ -14,9 +14,8 @@
 
 ## 🧩 **Contribuições em 3D**
 
-<p align="center">
-  <img src="https://github.com/RaFeltrim/RaFeltrim/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true" alt="Contribuições em 3D" />
-</p>
+![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 ---
