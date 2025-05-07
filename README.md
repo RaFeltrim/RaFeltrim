@@ -1,21 +1,17 @@
-<h1 align="center">
-  <span style="color:#FFA500;">Olá, eu sou Rafael Feltrim!</span>
-</h1>
+# Olá, eu sou Rafael Feltrim 👋
+
+💻 **Desenvolvedor Full Stack | IA & Segurança | Estagiário na Cadmus Soluções em TI**
 
 <p align="center">
   <img src="https://github.com/RaFeltrim.png" width="150" height="150" style="border-radius:50%;" alt="Foto de Perfil">
 </p>
 
-<p align="center">
-  <b><span style="color:#FFA500;">💻 Desenvolvedor Full Stack | IA & Segurança | Cadmus Soluções em TI - Estagiário </span></b>
-</p>
-
 ---
 
-## 🧩 Animação 3D de Contribuições
+## 🧩 Contribuições em 3D
 
 <p align="center">
-<img src="https://github.com/RaFeltrim/RaFeltrim/blob/main/profile-3d-contrib/profile-orange.svg" alt="Contribuições em 3D" />
+  <img src="https://github.com/RaFeltrim/RaFeltrim/blob/main/profile-3d-contrib/profile-orange.svg?raw=true" alt="Contribuições em 3D" />
 </p>
 
 ---
@@ -23,31 +19,35 @@
 ## 📫 **Contato**
 
 - **Email:** [rafeltrim@gmail.com](mailto:rafeltrim@gmail.com)
-- **LinkedIn:** [linkedin.com/in/rafael-feltrim-me](https://www.linkedin.com/in/rafael-feltrim-me/)
-- **GitHub:** [github.com/RaFeltrim](https://github.com/RaFeltrim)
+- **LinkedIn:** [rafael-feltrim-me](https://www.linkedin.com/in/rafael-feltrim-me/)
+- **GitHub:** [RaFeltrim](https://github.com/RaFeltrim)
 - **Instagram:** [@rafeltrim](https://www.instagram.com/rafeltrim/)
 
 ---
 
-## 🛠 **Habilidades Técnicas**
+## 🛠 **Tecnologias que eu uso**
 
-**Linguagens de Programação:**
+### **Linguagens de Programação:**
+
 - ✔ Python (**Avançado**)
 - ✔ Java (**Intermediário**)
 - ✔ JavaScript / TypeScript (**Intermediário**)
 
-**Frameworks & Bibliotecas:**
+### **Frameworks & Bibliotecas:**
+
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=FFA500)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFA500)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=FFA500)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=FFA500)
 
-**Banco de Dados:**
+### **Banco de Dados:**
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=FFA500)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=FFA500)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FFA500)
 
-**Ferramentas & Plataformas:**
+### **Ferramentas & Plataformas:**
+
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FFA500)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=FFA500)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFA500)
@@ -65,7 +65,7 @@
 
 ## 🌐 **Idiomas**
 
-- **Português:** Nativo  
+- **Português:** Nativo
 - **Inglês:** Avançado
 
 ---
@@ -83,7 +83,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true" width="400">
 </p>
 
 ---
@@ -108,3 +108,11 @@ Estou sempre aberto a conversas sobre **Inteligência Artificial**, **Desenvolvi
 <p align="center">
   <b><span style="color:#FFA500;">Obrigado por visitar meu perfil! ⭐ Vamos criar algo incrível juntos!</span></b>
 </p>
+
+🇧🇷 **[Versão em Português](README.md)** | 🇺🇸 **[English Version](README_EN.md)**
+
+---
+
+**Esse é um layout moderno e minimalista**, com as informações chave logo no início, incluindo o 3D no centro. O esquema de cores laranja foi mantido com o uso de badges nas tecnologias. A animação de contribuições é exibida no meio do perfil, destacando suas atividades.
+
+Agora, você pode copiar e colar este código no seu arquivo `README.md` para obter um perfil visualmente atraente e funcional.
