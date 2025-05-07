@@ -15,7 +15,7 @@
 ## 🧩 Animação 3D de Contribuições
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-orange.svg" alt="Contribuições em 3D">
+<img src="https://github.com/RaFeltrim/RaFeltrim/blob/main/profile-3d-contrib/profile-orange.svg" alt="Contribuições em 3D" />
 </p>
 
 ---
