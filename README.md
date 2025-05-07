@@ -37,7 +37,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,py,java,cs,dotnet,javascript,typescript,react,angular,django,spring,html,css,bootstrap,tailwind,sass,postman,cypress,docker,linux,figma,vercel,mongodb,postgres,mysql,tensorflow,robotframework,intelijidea" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,py,java,cs,dotnet,javascript,typescript,react,angular,django,spring,html,css,bootstrap,tailwind,sass,postman,cypress,docker,linux,figma,vercel,mongodb,postgres,mysql,tensorflow,robotframework,intelij" />
   </a>
 </div>
 
