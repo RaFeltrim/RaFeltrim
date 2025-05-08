@@ -14,9 +14,6 @@
 
 ---
 
-
----
-
 ## 📂 Projetos em Destaque
 
 - 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Download automatizado de cursos hospedados no Google Drive, com processamento paralelo.
