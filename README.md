@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Olá, eu sou o <span style="color:#FFA500;">Rafa Feltrim</span>!
+  👋 Olá, eu sou o <span style="color:#FFA500;">Rafael Feltrim</span>!
 </h1>
 
 <p align="center">
@@ -14,22 +14,25 @@
 
 ---
 
-## 📫 Conecte-se Comigo
-
-<p align="center">
-  <a href="mailto:rafeltrim@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/rafael-feltrim-me"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/RaFeltrim"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/rafeltrim"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
 
 ---
 
-## 🧩 Contribuições em 3D
+## 📂 Projetos em Destaque
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RaFeltrim/RaFeltrim/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico de contribuições em 3D" />
-</p>
+- 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Download automatizado de cursos hospedados no Google Drive, com processamento paralelo.
+- 🔥 [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Web scraper multi-fonte com exportação de dados estruturada.
+- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto-Biblioteca) → Sistema online de gerenciamento de biblioteca usando React.js.
+- 🔥 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → Projeto em Java com consumo de API e manipulação de JSON.
+
+---
+
+## 🚀 Sobre Mim
+
+- 🎓 **Formação**: Estudante de Engenharia de Software no IFSP.
+- 💡 **Foco Atual**: Desenvolvimento Full Stack, IA e DevOps.
+- 🤖 **Ferramentas de Interesse**: TensorFlow, Docker, Jenkins, GitHub Actions.
+- 💬 **Hobbies**: Games, filmes, tecnologia e inovação.
+- 🧠 **Interesses**: Open Source, Hackathons, automação de processos com IA.
 
 ---
 
@@ -43,12 +46,11 @@
 
 ---
 
-## 📂 Projetos em Destaque
+## 🧩 Contribuições em 3D
 
-- 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Download automatizado de cursos hospedados no Google Drive, com processamento paralelo.
-- 🔥 [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Web scraper multi-fonte com exportação de dados estruturada.
-- 🔥 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto-Biblioteca) → Sistema online de gerenciamento de biblioteca usando React.js.
-- 🔥 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → Projeto em Java com consumo de API e manipulação de JSON.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RaFeltrim/RaFeltrim/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico de contribuições em 3D" />
+</p>
 
 ---
 
@@ -67,13 +69,14 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 📫 Conecte-se Comigo
 
-- 🎓 **Formação**: Estudante de Engenharia de Software no IFSP.
-- 💡 **Foco Atual**: Desenvolvimento Full Stack, IA e DevOps.
-- 🤖 **Ferramentas de Interesse**: TensorFlow, Docker, Jenkins, GitHub Actions.
-- 💬 **Hobbies**: Games, filmes, tecnologia e inovação.
-- 🧠 **Interesses**: Open Source, Hackathons, automação de processos com IA.
+<p align="center">
+  <a href="mailto:rafeltrim@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rafael-feltrim-me"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/RaFeltrim"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/rafeltrim"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
