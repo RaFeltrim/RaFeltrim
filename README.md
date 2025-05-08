@@ -25,6 +25,7 @@
 
 ## 🚀 Sobre Mim
 
+- 🧑🏻‍💻 **Ocupação**: Estagiário na CADMUS Soluções em TI.
 - 🎓 **Formação**: Estudante de Engenharia de Software no IFSP.
 - 💡 **Foco Atual**: Desenvolvimento Full Stack, IA e DevOps.
 - 🤖 **Ferramentas de Interesse**: TensorFlow, Docker, Jenkins, GitHub Actions.
