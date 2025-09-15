@@ -136,7 +136,7 @@
 
 🇧🇷 Don’t speak English? Click here to view content in Portuguese!
 <div align="center">
-<a href="https://github.com/RaFeltrim/RaFeltrim/README.pt-br.md">
+<a href="https://github.com/RaFeltrim/README.pt-br.md">
 <img src="https://img.shields.io/badge/Ver%20em%20Português-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Ver em Português">
 </a>
 </div>
