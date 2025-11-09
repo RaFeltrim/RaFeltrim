@@ -11,7 +11,7 @@
   <br />
   🎓 Software Engineering Student at IFSP-SCL
   <br />
-  🏢 Freelancer at <a href="https://www.workana.com/)">Workana</a>
+  🏢 Freelancer at <a href="https://www.workana.com/freelancer/e48e5f2e150ed9de9c4b969391f5214d">Workana</a>
 </p>
 
 ---
