@@ -11,7 +11,7 @@
   <br />
   🎓 Software Engineering Student at IFSP-SCL
   <br />
-  🏢 Intern at <a href="https://www.cadmus.com.br">CADMUS Soluções em TI</a>
+  🏢 Freelancer at <a href="https://www.workana.com/)">Workana</a>
 </p>
 
 ---
