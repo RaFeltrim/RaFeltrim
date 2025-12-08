@@ -7,32 +7,32 @@
 </p>
 
 <p align="center">
-  💻 <b>Full Stack Developer</b> | 🤖 <b>AI & DevOps</b>  
+  🧪 <b>Mid-Level QA Analyst</b> | 🤖 <b>Test Automation & Quality Assurance</b>  
   <br />
   🎓 Software Engineering Student at IFSP-SCL
   <br />
-  🏢 Freelancer at <a href="https://www.workana.com/freelancer/e48e5f2e150ed9de9c4b969391f5214d">Workana</a>
+  🏢 QA Analyst at <a href="https://www.foursys.com.br/">Foursys</a>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-> 🔍 Developer passionate about **automation, software quality, and agile delivery**.  
-> 🧠 Focused on building scalable solutions with Node.js, Python, React.js, and modern architectures.
+> 🔍 Mid-Level QA Analyst passionate about **test automation, software quality, and agile delivery**.  
+> 🧠 Focused on ensuring quality through comprehensive testing strategies, automation frameworks, and continuous improvement.
 
 ### ✅ What I Do
-- 🤖 **Process Automation**: Web scraping, Python scripts, API integrations
-- 🛠️ **Full Stack Development**: Frontend (React.js), Backend (Node.js/Express), Databases (MongoDB, SQL)
-- 🔄 **DevOps & CI/CD**: GitHub Actions, Docker, automated pipelines
-- 🔍 **Quality Assurance**: Automated testing with Cypress, Robot Framework, and BDD
-- 📊 **Data Analysis & Insights**: Data extraction, parallel processing, structured exports
+- 🧪 **Test Automation**: Automated testing with Cypress, Robot Framework, Selenium, and BDD
+- 🔍 **Quality Assurance**: Test planning, test case design, exploratory testing, and quality metrics
+- 🔄 **CI/CD & DevOps**: GitHub Actions, Docker, automated test pipelines and continuous testing
+- 📊 **Test Management**: Test strategy, test documentation, defect tracking, and reporting
+- 🤖 **Process Automation**: Python scripts, API testing, and test data management
 
 ### 💡 What Problems I Solve
-✅ Reduce time with automation of manual tasks  
-✅ Build robust and scalable backends  
-✅ Integrate external APIs to optimize workflows  
-✅ Ensure quality with automated tests and CI/CD
+✅ Ensure software quality through comprehensive testing strategies  
+✅ Reduce time with test automation and CI/CD integration  
+✅ Identify and prevent defects early in the development cycle  
+✅ Improve team efficiency with clear documentation and test coverage
 
 ---
 
