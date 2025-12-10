@@ -34,18 +34,54 @@
 ✅ Identify and prevent defects early in the development cycle  
 ✅ Improve team efficiency with clear documentation and test coverage
 
+### 🎯 Testing Competencies & Frameworks
+
+<div align="center">
+
+| Testing Type | Frameworks & Tools | Proficiency |
+|--------------|-------------------|-------------|
+| **Unit Testing** | PyTest, Jest, JUnit, unittest, Mocha | ⭐⭐⭐⭐⭐ |
+| **Integration Testing** | PyTest, Postman, REST Assured, SuperTest | ⭐⭐⭐⭐⭐ |
+| **E2E Testing** | Cypress, Selenium WebDriver, Playwright | ⭐⭐⭐⭐⭐ |
+| **BDD Testing** | Robot Framework, Cucumber, Behave | ⭐⭐⭐⭐ |
+| **API Testing** | Postman, REST Assured, Pytest-requests | ⭐⭐⭐⭐⭐ |
+| **Performance Testing** | JMeter, Locust, k6 | ⭐⭐⭐⭐ |
+| **CI/CD Integration** | GitHub Actions, Jenkins, GitLab CI | ⭐⭐⭐⭐⭐ |
+| **Test Management** | TestRail, Jira, Azure DevOps | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+#### 📋 Testing Best Practices I Follow:
+- ✅ **Test-Driven Development (TDD)**: Write tests before implementation
+- ✅ **Behavior-Driven Development (BDD)**: Collaborate with stakeholders using Gherkin
+- ✅ **Test Pyramid**: Balanced test coverage across unit, integration, and E2E tests
+- ✅ **Continuous Testing**: Automated tests in CI/CD pipelines
+- ✅ **Code Coverage**: Maintain >80% code coverage on critical components
+- ✅ **Test Data Management**: Fixtures, factories, and mock data strategies
+- ✅ **Accessibility Testing**: WCAG compliance and a11y testing
+- ✅ **Security Testing**: OWASP best practices and vulnerability scanning
+
 ---
 
 ## 🚀 Featured Projects
 
+### 🧪 Projects with Automated Testing
+
+| Project | Description | Testing Framework | Coverage |
+|--------|-------------|-------------------|----------|
+| 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) | Automates course downloads from Google Drive with parallel processing and multithreading. **Includes unit tests for core functionality.** | PyTest, unittest | Unit Tests |
+| 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) | Multi-source web scraper with CSV/JSON export. **Comprehensive test suite for data validation and error handling.** | PyTest, Mock | Unit + Integration |
+| 📚 [**Library Project**](https://github.com/RaFeltrim/Projeto-Biblioteca) | Web-based library management system with full CRUD. **E2E tests for user workflows.** | Jest, React Testing Library | Unit + E2E |
+| 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) | Java project consuming external APIs and manipulating JSON. **Includes API integration tests.** | JUnit, Mockito | Unit + Integration |
+
+> 💬 All projects demonstrate testing best practices and are open-source. Contributions welcome!
+
+### 💡 Other Projects
+
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) | Automates course downloads from Google Drive with parallel processing and multithreading. | Python, Threading, Google Drive API |
-| 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) | Multi-source web scraper with CSV/JSON export. Ideal for large-scale data collection. | Python, BeautifulSoup, Requests, Pandas |
-| 📚 [**Library Project**](https://github.com/RaFeltrim/Projeto-Biblioteca) | Web-based library management system with full CRUD. | React.js, CSS, LocalStorage |
-| 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) | Java project consuming external APIs and manipulating JSON. | Java, HTTP Client, JSON |
-
-> 💬 All projects are open-source and welcome contributions!
+| 📊 [**Data Analysis Tools**](https://github.com/RaFeltrim) | Collection of Python scripts for data analysis and visualization | Python, Pandas, Matplotlib |
+| 🤖 [**Automation Scripts**](https://github.com/RaFeltrim) | Various automation utilities for daily tasks | Python, Bash, PowerShell |
 
 ---
 
@@ -69,6 +105,19 @@
   <img src="https://img.shields.io/badge/-Agile%20Methodologies-007ACC?style=flat&logo=agile&logoColor=white" />
   <img src="https://img.shields.io/badge/-Full%20Stack%20Development-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python%20%26%20Automation-FFD700?style=flat&logo=python&logoColor=black" />
+</div>
+
+### 🧪 Testing-Specific Badges & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
 ### 📚 Key Certifications
