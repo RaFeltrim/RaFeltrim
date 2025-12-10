@@ -37,27 +37,22 @@
 - ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFA500)
 - ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins&logoColor=FFA500)
 
+### **Frameworks de Testes:**
+- ![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=FFA500)
+- ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=jest&logoColor=FFA500)
+- ![PyTest](https://img.shields.io/badge/-PyTest-000000?style=flat&logo=pytest&logoColor=FFA500)
+- ![JUnit](https://img.shields.io/badge/-JUnit-000000?style=flat&logo=junit5&logoColor=FFA500)
+- ![Selenium](https://img.shields.io/badge/-Selenium-000000?style=flat&logo=selenium&logoColor=FFA500)
+- ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?style=flat&logo=robot-framework&logoColor=FFA500)
+
 ---
 
 ## 📂 **Projetos em Destaque**
 
-### 🧪 Projetos com Testes Automatizados
-
-| Projeto | Descrição | Framework de Testes | Cobertura |
-|---------|-----------|---------------------|-----------|
-| 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) | Automatiza downloads de cursos do Google Drive com processamento paralelo e multithreading. **Inclui testes unitários para funcionalidades principais.** | PyTest, unittest | Testes Unitários |
-| 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) | Web scraper multi-fonte com exportação CSV/JSON. **Suite completa de testes para validação de dados e tratamento de erros.** | PyTest, Mock | Unit + Integração |
-| 📚 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto-Biblioteca) | Sistema de gerenciamento de biblioteca com CRUD completo. **Testes E2E para fluxos de usuário.** | Jest, React Testing Library | Unit + E2E |
-| 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) | Projeto Java consumindo APIs externas e manipulando JSON. **Inclui testes de integração de API.** | JUnit, Mockito | Unit + Integração |
-
-> 💬 Todos os projetos demonstram boas práticas de testes e são open-source. Contribuições são bem-vindas!
-
-### 💡 Outros Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 📊 **Ferramentas de Análise de Dados** | Coleção de scripts Python para análise e visualização de dados | Python, Pandas, Matplotlib |
-| 🤖 **Scripts de Automação** | Utilitários diversos para automação de tarefas diárias | Python, Bash, PowerShell |
+- 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) → Automatiza downloads de cursos do Google Drive com processamento paralelo. **Testado com PyTest.**
+- 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) → Web scraper multi-fonte com exportação CSV/JSON. **Inclui testes de integração.**
+- 📚 [**Projeto Biblioteca**](https://github.com/RaFeltrim/Projeto-Biblioteca) → Sistema de gerenciamento de biblioteca com CRUD completo. **Testes E2E com Jest.**
+- 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) → Projeto Java consumindo APIs externas. **Testes de API com JUnit.**
 
 ---
 
@@ -67,35 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true" width="400">
 </p>
-
----
-
-## 🎯 **Competências em Testes**
-
-<div align="center">
-
-| Tipo de Teste | Frameworks & Ferramentas | Proficiência |
-|---------------|--------------------------|--------------|
-| **Testes Unitários** | PyTest, Jest, JUnit, unittest, Mocha | ⭐⭐⭐⭐⭐ |
-| **Testes de Integração** | PyTest, Postman, REST Assured, SuperTest | ⭐⭐⭐⭐⭐ |
-| **Testes E2E** | Cypress, Selenium WebDriver, Playwright | ⭐⭐⭐⭐⭐ |
-| **Testes BDD** | Robot Framework, Cucumber, Behave | ⭐⭐⭐⭐ |
-| **Testes de API** | Postman, REST Assured, Pytest-requests | ⭐⭐⭐⭐⭐ |
-| **Testes de Performance** | JMeter, Locust, k6 | ⭐⭐⭐⭐ |
-| **Integração CI/CD** | GitHub Actions, Jenkins, GitLab CI | ⭐⭐⭐⭐⭐ |
-| **Gestão de Testes** | TestRail, Jira, Azure DevOps | ⭐⭐⭐⭐⭐ |
-
-</div>
-
-### 📋 Boas Práticas de Testes que Sigo:
-- ✅ **Test-Driven Development (TDD)**: Escrever testes antes da implementação
-- ✅ **Behavior-Driven Development (BDD)**: Colaboração com stakeholders usando Gherkin
-- ✅ **Pirâmide de Testes**: Cobertura balanceada entre testes unitários, integração e E2E
-- ✅ **Testes Contínuos**: Testes automatizados em pipelines CI/CD
-- ✅ **Cobertura de Código**: Manter >80% de cobertura em componentes críticos
-- ✅ **Gestão de Dados de Teste**: Fixtures, factories e estratégias de mock data
-- ✅ **Testes de Acessibilidade**: Conformidade WCAG e testes a11y
-- ✅ **Testes de Segurança**: Boas práticas OWASP e varredura de vulnerabilidades
 
 ---
 
