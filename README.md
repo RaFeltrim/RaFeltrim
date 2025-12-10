@@ -40,10 +40,10 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) | Automates course downloads from Google Drive with parallel processing and multithreading. **Unit tested with PyTest.** | Python, Threading, Google Drive API, PyTest |
-| 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) | Multi-source web scraper with CSV/JSON export. **Includes integration tests.** | Python, BeautifulSoup, Requests, Pandas, PyTest |
-| 📚 [**Library Project**](https://github.com/RaFeltrim/Projeto-Biblioteca) | Web-based library management system with full CRUD. **E2E tested with Jest.** | React.js, CSS, LocalStorage, Jest |
-| 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) | Java project consuming external APIs and manipulating JSON. **API tests with JUnit.** | Java, HTTP Client, JSON, JUnit |
+| 🔥 [**AutoCourseDownloader**](https://github.com/RaFeltrim/AutoCourseDownloader) | Automates course downloads from Google Drive with parallel processing and multithreading. **Unit tested with PyTest.** | Python, Threading, Google Drive API |
+| 🕸️ [**ScrapeSync**](https://github.com/RaFeltrim/ScrapeSync) | Multi-source web scraper with CSV/JSON export. **Includes integration tests with PyTest.** | Python, BeautifulSoup, Requests, Pandas |
+| 📚 [**Library Project**](https://github.com/RaFeltrim/Projeto-Biblioteca) | Web-based library management system with full CRUD. **E2E tested with Jest.** | React.js, CSS, LocalStorage |
+| 🧪 [**alura-imersao**](https://github.com/RaFeltrim/alura-imersao) | Java project consuming external APIs and manipulating JSON. **API tests with JUnit.** | Java, HTTP Client, JSON |
 
 > 💬 All projects include automated tests and are open-source. Contributions welcome!
 
