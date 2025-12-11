@@ -86,13 +86,10 @@
 
 ## 📊 Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dark&title_color=FFA500&icon_color=FFA500&text_color=FFFFFF&bg_color=000000" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaFeltrim&theme=dark&hide_border=true" width="400">
-</p>
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaFeltrim&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaFeltrim&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaFeltrim&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaFeltrim&layout=compact&theme=dracula&hide_border=true" />
+</div>
 
 ---
 
