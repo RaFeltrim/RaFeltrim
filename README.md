@@ -59,13 +59,13 @@
 
 ### 🧪 Testing Frameworks & Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jest-333?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTest-333?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JUnit-333?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-333?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Robot_Framework-333?style=flat&logo=robot-framework&logoColor=white" />
 </div>
 
 ---
