@@ -96,14 +96,12 @@ const posicionamento = {
 
 ---
 
-## Próximos lançamentos
+## Boilerplates Públicos
 
-Boilerplates funcionais em sanitização para release pública:
+Boilerplates funcionais, offline e sanitizados para demonstrar práticas de QA + IA sem expor dados sensíveis:
 
-- **Executive QA View** — dashboard executivo de QA com Gemini AI.
-- **us-avaliator** — framework multi-agente de geração de Gherkin com Claude API.
-
-Ambos serão publicados quando passarem pelo meu próprio quality gate.
+- **[Executive QA View Boilerplate](https://github.com/RaFeltrim/executive-qa-view-boilerplate)** — dashboard executivo de QA com dados fictícios e insight local determinístico.
+- **[us-avaliator Boilerplate](https://github.com/RaFeltrim/us-avaliator-boilerplate)** — avaliador multiagente de User Stories com geração Gherkin offline.
 
 ---
 
